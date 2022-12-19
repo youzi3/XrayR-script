@@ -10,14 +10,23 @@
 
 
 麻了
+
 真麻了
+
 彻底麻了
+
 我人都麻了
+
 这次彻底麻了
+
 我他妈的真麻了
+
 这你妈的我真麻了
+
 你这搞的我是真麻了
+
 我这次真的是彻底麻了
+
 🔽🔽🔽
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/youzi3/XrayR-script/main/install.sh)
