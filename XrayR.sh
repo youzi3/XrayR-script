@@ -388,6 +388,7 @@ show_menu() {
     echo -e "
   ${green}XrayR 后端管理脚本，${plain}${red}不适用于docker${plain}
 --- https://github.com/youzi3/XrayR ---
+${red}自己去动手设置开自启动！！还有BBR！！我懒得写！！！
   ${green}0.${plain} 修改配置
 ————————————————
   ${green}1.${plain} 安装 XrayR
